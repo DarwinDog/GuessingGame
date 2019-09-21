@@ -1,8 +1,8 @@
 all: Guessinggame.sh README.md
 
-Guessinggame.sh:
-	echo "linje 1" > Guessinggame.sh
-	echo "linje 2" >> Guessinggame.sh
+#Guessinggame.sh:
+#	echo "linje 1" > Guessinggame.sh
+#	echo "linje 2" >> Guessinggame.sh
 
 README.md: Guessinggame.sh
 	echo "# Guessing Game" > README.md
@@ -26,5 +26,5 @@ README.md: Guessinggame.sh
 	echo "The project is available on [my GitHub](https://github.com/DarwinDog/GuessingGame). I have also added a [GitHub pages site](https://darwindog.github.io/GuessingGame/)" >> README.md
 
 clean:
-	rm Guessinggame.sh
+#	rm Guessinggame.sh
 	rm README.md
