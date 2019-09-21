@@ -6,8 +6,9 @@ Please download to a folder on your computer, type make and hit enter
 This will make the necessary files for the game
 To run the game, please enter
 '''
-foldernamebash Guessinggame.sh
+bash Guessinggame.sh
 '''
+
 
 The game will terminate when you gues the currect number of files in the folder
 
@@ -15,4 +16,4 @@ The number of lines in the Guessinggame.sh file are:
 4
 
 The makefile ran on
-21/09/2019 08:00:08
+21/09/2019 08:02:36
