@@ -23,8 +23,7 @@ README.md: Guessinggame.sh
 	echo "The makefile ran on" >> README.md
 	(date '+%d/%m/%Y %H:%M:%S') >> README.md
 	echo "" >> README.md
-	echo "The URL of the project is https://github.com/DarwinDog/GuessingGame" >> README.md
-	echo "The URL of the GitHub pages is https://darwindog.github.io/GuessingGame/" >> README.md
+	echo "The project is available on [my GitHub](https://github.com/DarwinDog/GuessingGame). I have also added a [GitHub pages site](https://darwindog.github.io/GuessingGame/)" >> README.md
 
 clean:
 	rm Guessinggame.sh

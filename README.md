@@ -14,7 +14,6 @@ The number of lines in the Guessinggame.sh file are:
 5
 
 The makefile ran on
-21/09/2019 08:19:10
+21/09/2019 08:24:27
 
-The URL of the project is https://github.com/DarwinDog/GuessingGame
-The URL of the GitHub pages is https://darwindog.github.io/GuessingGame/
+The project is available on [my GitHub](https://github.com/DarwinDog/GuessingGame). I have also added a [GitHub pages site](https://darwindog.github.io/GuessingGame/)
