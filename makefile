@@ -5,9 +5,9 @@ Guessinggame.sh:
 	echo "linje 2" >> Guessinggame.sh
 
 README.md: Guessinggame.sh
-	echo "*Guessing Game*" > README.md
+	echo "#Guessing Game#" > README.md
 	echo "" >> README.md
-	echo "**A game to guess the number of files in a folder**" >> README.md
+	echo "##A game to guess the number of files in a folder##" >> README.md
 	echo "" >> README.md
 	echo "Please download to a folder on your computer, type "make" and hit enter" >> README.md
 	echo "This will make the necessary files for the game" >> README.md
