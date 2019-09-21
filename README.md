@@ -11,10 +11,10 @@ To run the game, please enter
 The game will terminate when you gues the currect number of files in the folder
 
 The number of lines in the Guessinggame.sh file are:
-4
+5
 
 The makefile ran on
-21/09/2019 08:17:07
+21/09/2019 08:19:10
 
 The URL of the project is https://github.com/DarwinDog/GuessingGame
 The URL of the GitHub pages is https://darwindog.github.io/GuessingGame/
