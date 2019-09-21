@@ -8,7 +8,7 @@ To run the game, please enter
 
     bash Guessinggame.sh
 
-The game will terminate when you gues the currect number of files in the folder
+The game will terminate when you guess the correct number of files in the folder
 
 The number of lines in the Guessinggame.sh file are:
 23
