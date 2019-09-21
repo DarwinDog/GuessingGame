@@ -13,8 +13,9 @@ README.md: Guessinggame.sh
 	echo "This will make the necessary files for the game" >> README.md
 	echo "To run the game, please enter" >> README.md 
 	echo "'''" >> README.md
-	echo "foldername$ bash Guessinggame.sh" >> README.md
+	echo "bash Guessinggame.sh" >> README.md
 	echo "'''" >> README.md
+	echo "" >> README.md
 	echo "" >> README.md
 	echo "The game will terminate when you gues the currect number of files in the folder" >> README.md
 	echo "" >> README.md
