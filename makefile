@@ -1,8 +1,5 @@
-all: Guessinggame.sh README.md
+all: README.md
 
-#Guessinggame.sh:
-#	echo "linje 1" > Guessinggame.sh
-#	echo "linje 2" >> Guessinggame.sh
 
 README.md: Guessinggame.sh
 	echo "# Guessing Game" > README.md
@@ -18,7 +15,7 @@ README.md: Guessinggame.sh
 	echo "The game will terminate when you gues the currect number of files in the folder" >> README.md
 	echo "" >> README.md
 	echo "The number of lines in the Guessinggame.sh file are:" >> README.md
-	ls | wc -l >> README.md
+	wc -l < ./Guessinggame.sh >> README.md
 	echo "" >> README.md
 	echo "The makefile ran on" >> README.md
 	(date '+%d/%m/%Y %H:%M:%S') >> README.md
